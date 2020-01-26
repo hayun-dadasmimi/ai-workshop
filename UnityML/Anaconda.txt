@@ -1,0 +1,3 @@
+activate mlagents
+
+mlagents-learn --train --run-id="FlappyBird" trainer_config.yaml

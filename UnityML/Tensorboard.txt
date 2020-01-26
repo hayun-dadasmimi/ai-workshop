@@ -1,0 +1,6 @@
+activate mlagents
+
+tensorboard --logdir==summaries
+
+인터넷 창을 열어 아래 주소로 이동해주세요
+http://DESKTOP-SongD:6006
